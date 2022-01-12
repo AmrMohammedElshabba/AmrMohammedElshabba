@@ -1,9 +1,18 @@
 - 👋 Hi, I’m Amr Mohamed Elshabba
-- I'm Softwar Engineer from egypt
+- Softwar Engineer from egypt
   - Flutter developer 
-  - Good knowledge of firebase real time database (Online DataBase)
-  - Good knowledge of Sqllite real time database (Offline DataBase)
-  - 
+- Technical Skills
+  - Object Oriented Programming (OOP)
+  - Data Structures
+  - Problem Solving 
+  - Flutter
+  - Dart
+  - Firebase
+  - REST APIS (Dio & HTTP Packages)
+  - Shared Preference
+  - SQL lite
+  - State Management (Bloc, Provider)
+  - I'm currently working on improving my skills as a mobile application developer
 <!---
 
 --->
