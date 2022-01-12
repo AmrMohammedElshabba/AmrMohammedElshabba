@@ -13,6 +13,8 @@
   - SQL lite
   - State Management (Bloc, Provider)
   - I'm currently working on improving my skills as a mobile application developer
+#### My projects
+  - E=commerce project https://github.com/AmrMohammedElshabba/E-Commerce.git
 <!---
 
 --->
