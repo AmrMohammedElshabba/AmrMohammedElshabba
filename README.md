@@ -7,11 +7,12 @@
   - Problem Solving 
   - Flutter
   - Dart
+  - MVVM
   - Firebase
   - REST APIS (Dio & HTTP Packages)
   - Shared Preference
   - SQL lite
-  - State Management (Bloc, Provider)
+  - State Management (Bloc, Provider, Get X)
   - I'm currently working on improving my skills as a mobile application developer
 #### My projects
   - Social project https://github.com/AmrMohammedElshabba/Social-App.git
