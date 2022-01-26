@@ -14,6 +14,7 @@
   - State Management (Bloc, Provider)
   - I'm currently working on improving my skills as a mobile application developer
 #### My projects
+  - Social project https://github.com/AmrMohammedElshabba/Social-App.git
   - E-commerce project https://github.com/AmrMohammedElshabba/E-Commerce.git
   - News App (الجريدة) https://github.com/AmrMohammedElshabba/-.git
 <!---
