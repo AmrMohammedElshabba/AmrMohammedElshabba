@@ -17,10 +17,7 @@
 #### My projects
   - Bloc Clean Architecture https://github.com/AmrMohammedElshabba/bloc_clean_architecture
   - Food Delivery https://github.com/AmrMohammedElshabba/food_delivery.git
-  - Basket https://github.com/AmrMohammedElshabba/basket.git
-  - Social project https://github.com/AmrMohammedElshabba/Social-App.git
-  - E-commerce project https://github.com/AmrMohammedElshabba/E-Commerce.git
-  - News App (الجريدة) https://github.com/AmrMohammedElshabba/-.git
+
 <!---
 
 --->
